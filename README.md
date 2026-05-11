@@ -4,7 +4,7 @@
 
 I'm a Senior Software Engineer with experience in building scalable backend 
 systems and microservices. I have a strong background in distributed systems, 
-cloud computing, and software architecture. I have over 6 years of experience 
+cloud computing, and software architecture. I have over 7 years of experience 
 solving complex problems and delivering value to businesses and users all over 
 the world. I'm also passionate about cryptography, security, and open source 
 software.
